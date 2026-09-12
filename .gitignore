@@ -1,0 +1,15 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Compiled files
+bin/
+target/
+
+# Temporary files
+*.tmp
+*.log
+
+# Java compiled files
+*.class
